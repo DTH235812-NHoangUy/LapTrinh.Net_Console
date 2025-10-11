@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Net\\LapTrinh.net_Console\\LapTrinh.net_Console\\Buoi01_Bai_1\\Buoi01_Bai_1.csproj",
+      "projectUniqueName": "D:\\Net\\LapTrinh.net_Console\\LapTrinh.net_Console\\.console\\Buoi01_Bai_1\\Buoi01_Bai_1.csproj",
       "projectName": "Buoi01_Bai_1",
-      "projectPath": "D:\\Net\\LapTrinh.net_Console\\LapTrinh.net_Console\\Buoi01_Bai_1\\Buoi01_Bai_1.csproj",
+      "projectPath": "D:\\Net\\LapTrinh.net_Console\\LapTrinh.net_Console\\.console\\Buoi01_Bai_1\\Buoi01_Bai_1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Net\\LapTrinh.net_Console\\LapTrinh.net_Console\\Buoi01_Bai_1\\obj\\",
+      "outputPath": "D:\\Net\\LapTrinh.net_Console\\LapTrinh.net_Console\\.console\\Buoi01_Bai_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\Buoi01_Bai_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\Buoi01_Bai_5.AssemblyInfoInputs.cache
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\Buoi01_Bai_5.AssemblyInfo.cs
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\Buoi01_Bai_5.csproj.CoreCompileInputs.cache
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\Buoi01_Bai_5.sourcelink.json
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\bin\Debug\net8.0\Buoi01_Bai_5.exe
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\bin\Debug\net8.0\Buoi01_Bai_5.deps.json
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\bin\Debug\net8.0\Buoi01_Bai_5.runtimeconfig.json
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\bin\Debug\net8.0\Buoi01_Bai_5.dll
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\bin\Debug\net8.0\Buoi01_Bai_5.pdb
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\Buoi01_Bai_5.dll
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\refint\Buoi01_Bai_5.dll
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\Buoi01_Bai_5.pdb
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\Buoi01_Bai_5.genruntimeconfig.cache
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_5\obj\Debug\net8.0\ref\Buoi01_Bai_5.dll

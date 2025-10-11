@@ -1,0 +1,15 @@
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\bin\Debug\net8.0\Buoi01_Bai_7.exe
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\bin\Debug\net8.0\Buoi01_Bai_7.deps.json
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\bin\Debug\net8.0\Buoi01_Bai_7.runtimeconfig.json
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\bin\Debug\net8.0\Buoi01_Bai_7.dll
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\bin\Debug\net8.0\Buoi01_Bai_7.pdb
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\Buoi01_Bai_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\Buoi01_Bai_7.AssemblyInfoInputs.cache
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\Buoi01_Bai_7.AssemblyInfo.cs
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\Buoi01_Bai_7.csproj.CoreCompileInputs.cache
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\Buoi01_Bai_7.sourcelink.json
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\Buoi01_Bai_7.dll
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\refint\Buoi01_Bai_7.dll
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\Buoi01_Bai_7.pdb
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\Buoi01_Bai_7.genruntimeconfig.cache
+D:\Net\LapTrinh.net_Console\LapTrinh.net_Console\.console\Buoi01_Bai_7\obj\Debug\net8.0\ref\Buoi01_Bai_7.dll
